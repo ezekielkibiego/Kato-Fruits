@@ -1,7 +1,8 @@
 .navbar-nav a{
     font-weight: 18px;
 }
-.navbar{
-    background-color: orange;
-    color: white;
+#nav{
+    color: orange;
+   
+    
 }
